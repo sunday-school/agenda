@@ -1,7 +1,7 @@
 # agenda 
 keeping notes
 
-## 23/10/2016
+## 2016/10/23
 
 - alp demos twitter stuff
 - maurice demos 3d stuff
