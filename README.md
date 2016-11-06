@@ -1,5 +1,25 @@
 # agenda 
+
 keeping notes
+
+## 2016/11/06
+
+- talk about oop http://stackoverflow.com/questions/9582341/adding-new-properties-to-constructor-function-without-prototype#9582407
+  - you can add functions to all strings by setting them on String.prototype
+  - arrays too, same way
+  - you can make your own cool types (CoolArray) kinda like this:
+
+```javascript
+function CoolArray () {}
+CoolArray.prototype = Array
+CoolArray.addAnAlp = function () { this.push('alp') }
+```
+
+- talk about libraries http://codepen.io/amonks/pen/VmYQNV?editors=0010
+
+## 2016/10/30
+
+stuff happens
 
 ## 2016/10/23
 
