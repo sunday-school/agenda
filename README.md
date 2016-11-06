@@ -17,6 +17,8 @@ CoolArray.addAnAlp = function () { this.push('alp') }
 
 - talk about libraries http://codepen.io/amonks/pen/VmYQNV?editors=0010
 
+- talk about functions vs methods http://codepen.io/amonks/pen/eBmMdy?editors=0010
+
 ## 2016/10/30
 
 stuff happens
