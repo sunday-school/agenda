@@ -10,6 +10,8 @@ keeping notes
 - Talk about a potential DJ event at corporate. how to make sure potential partners are gonna work in your best interest and be on the same page?
 - Talk about TLDs // subdomains, dns in general. Here's a link to a page with a bit more info [link](https://monks.co/tlds/)
 - Look at Lal's map thing. (eventually at wiki.lalvgen.com) [source here](lavgen/WikileaksAPI-project)
+- Talk about securing wires into a box. See [this stack overflow link](http://electronics.stackexchange.com/questions/77516/securing-electrical-cables-to-holes-in-enclosures/77526)
+  - conclusion: just use zip ties.
 
 ## 2016/11/06
 
