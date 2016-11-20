@@ -2,6 +2,15 @@
 
 keeping notes
 
+## 2016/11/20
+
+- Talk about subchroma: how did it go, how did it work, what do we think?
+- Talk about contracts **remember to add a link here to the contracts I usually use**
+- Talk about maurice's art practice: what's next? how to get more shows?
+- Talk about a potential DJ event at corporate. how to make sure potential partners are gonna work in your best interest and be on the same page?
+- Talk about TLDs // subdomains, dns in general. Here's a link to a page with a bit more info [link](https://monks.co/tlds/)
+- Look at Lal's map thing. (eventually at wiki.lalvgen.com) [source here](lavgen/WikileaksAPI-project)
+
 ## 2016/11/06
 
 - talk about oop http://stackoverflow.com/questions/9582341/adding-new-properties-to-constructor-function-without-prototype#9582407
